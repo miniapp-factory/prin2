@@ -8,8 +8,7 @@ import {
   CardContent,
   CardFooter,
 } from "./ui/card";
-import { Button } from "./ui/button";
-import Share from "@/components/share";
+import { Share } from "@/components/share";
 
 interface Princess {
   name: string;

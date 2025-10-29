@@ -6,7 +6,6 @@ import {
   Card,
   CardHeader,
   CardContent,
-  CardFooter,
 } from "./ui/card";
 import { RadioGroup, RadioGroupItem } from "./ui/radio-group";
 import { Label } from "./ui/label";
