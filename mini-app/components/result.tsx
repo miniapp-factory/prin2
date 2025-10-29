@@ -88,10 +88,9 @@ export default function Result() {
       </CardContent>
       <CardFooter className="flex justify-center">
         <Share
-          title={`I am ${princess.name}!`}
-          description={princess.description}
-          imageUrl={princess.image}
+          text={`I am ${princess.name}!`}
           url={shareUrl}
+          imageUrl={princess.image}
         />
       </CardFooter>
     </Card>
